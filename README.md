@@ -66,7 +66,7 @@ class courses_classes extends Courses {
 }
 ?>
 ```
-Berikut penjelasan konsep **Encapsulation**, **Constructor**, **Inheritance**, dan **Polymorphism** dalam kode yang diberikan:
+Berikut penjelasan konsep **Encapsulation**, **Constructor**, **Inheritance**, dan **Polymorphism** dalam kode:
 
 ### 1. **Encapsulation (Enkapsulasi)**
    - **Pengertian:** Enkapsulasi adalah konsep di mana data dan fungsi (metode) di dalam kelas dilindungi agar tidak bisa diakses langsung dari luar kelas, kecuali melalui metode yang diizinkan.
@@ -223,7 +223,7 @@ $database = $db->tampil_data();
 </body>
 </html>
 ```
-Berikut penjelasan singkat dan padat untuk kode PHP dan HTML di atas:
+Berikut penjelasan untuk kode PHP dan HTML di atas:
 
 a. PHP Code:
 - Impor Koneksi: include('koneksi.php'); – Memasukkan file koneksi database.
